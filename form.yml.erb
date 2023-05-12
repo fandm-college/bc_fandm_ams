@@ -1,0 +1,18 @@
+---
+cluster: "rcs-sc"
+form:
+  - bc_num_hours
+  - num_cores
+  - bc_vnc_resolution
+  - bc_email_on_started
+attributes:
+  num_cores:
+    widget: "number_field"
+    label: "Number of cores"
+    value: 1
+    min: 1
+    max: 10
+    step: 1
+  bc_num_slots: 1
+  bc_vnc_resolution:
+    required: true

@@ -1,0 +1,9 @@
+---
+name: Amsterdam Modelling Suite
+category: Interactive Apps
+subcategory: GUIs
+role: batch_connect
+description: "This app will launch a [AMS] GUI on the [F&M research cluster]. You
+  will be able\r\nto interact with the AMS GUI through a VNC session.\r\n\r\n[AMS]:
+  https://www.scm.com/\r\n[F&M research cluster]: https://fandm-college.github.io/rcs.github.io/\r\n"
+icon: ''
